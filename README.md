@@ -233,6 +233,16 @@ Preference is given to contributions that improve:
 * Maintainability
 * Test coverage
 
+## Guiding Principle
+
+A good AI skill should not memorize replacements.
+
+It should learn to ask a better question:
+
+> **Should this be changed in this context?**
+
+That single design choice influences every skill in this repository.
+
 ---
 
 ## License
