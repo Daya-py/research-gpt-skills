@@ -1,15 +1,18 @@
+<div align="center">
+
 # Research GPT Skills
+<p>
 
-<p align="center">
-
-![Status](https://img.shields.io/badge/status-active_development-2ea44f)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Architecture](https://img.shields.io/badge/architecture-modular-orange)
-![Focus](https://img.shields.io/badge/focus-engineering_%26_research-6f42c1)
-
-*A growing collection of professional ChatGPT Skills for engineering, scientific research, and publication.*
+<img src="https://img.shields.io/badge/status-active_development-2ea44f" />
+<img src="https://img.shields.io/badge/license-MIT-blue" />
+<img src="https://img.shields.io/badge/architecture-modular-orange" />
+<img src="https://img.shields.io/badge/focus-engineering_%26_research-6f42c1" />
 
 </p>
+
+<p><em>A growing collection of professional ChatGPT Skills for engineering, scientific research, and publication.</em></p>
+
+</div>
 
 ---
 
